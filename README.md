@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Salut, je suis Hicham
 
-<!--
-**hicham-DevStudio/hicham-Devstudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Développeur Web en Formation
 
-Here are some ideas to get you started:
+Je suis en reconversion professionnelle dans le développement web. 
+Je construis mon portfolio projet par projet pour maîtriser les technologies modernes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **Mon portfolio :** [hicham-devstudio.github.io](https://hicham-devstudio.github.io)
+
+---
+
+## 🎓 Ce que j'apprends
+
+- **Frontend :** HTML, CSS, JavaScript, React
+- **Backend :** Node.js, Express
+- **Outils :** Git, GitHub, VS Code
+
+---
+
+## 📂 Mes Projets
+
+| Projet | Description | Lien |
+|--------|-------------|------|
+| **Site Restaurant** | Premier site avec formulaire | [Voir](https://hicham-devstudio.github.io/site-restaurant) |
+| **Template E-commerce** | Boutique avec panier JS | [Voir](https://hicham-devstudio.github.io/template-ecommerce) |
+
+---
+
+## 📫 Contact
+
+- 📧 contact@hicham-devstudio.com
+- 🌐 [Mon portfolio](https://hicham-devstudio.github.io)
+- 💻 [@hicham-DevStudio](https://github.com/hicham-DevStudio)
+
+---
+
+*En reconversion professionnelle. Ouvert aux opportunités et conseils.*
