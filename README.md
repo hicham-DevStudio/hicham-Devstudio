@@ -6,7 +6,7 @@ Je suis en reconversion professionnelle dans le développement web.
 Je construis mon portfolio projet par projet pour maîtriser les technologies modernes.
 
 🌐 **Mon portfolio :** [hicham-devstudio.github.io](https://hicham-devstudio.github.io)
-
+| **Portfolio 3D** | Site immersif WebGL/Three.js avec particules et géométries interactives | [Voir](https://hicham-devstudio.github.io/portfolio-3d) |
 ---
 
 ## 🎓 Ce que j'apprends
