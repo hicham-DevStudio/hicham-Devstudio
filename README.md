@@ -23,8 +23,7 @@ Je construis mon portfolio projet par projet pour maîtriser les technologies mo
 |--------|-------------|------|
 | **Site Restaurant** | Premier site avec formulaire | [Voir](https://hicham-devstudio.github.io/site-restaurant) |
 | **Template E-commerce** | Boutique avec panier JS | [Voir](https://hicham-devstudio.github.io/template-ecommerce) |
-
----
+| **Salon L'Artisan** | Site premium pour coiffeur (animations, particles) | [Voir](https://hicham-devstudio.github.io/salon-luxe) |---
 
 ## 📫 Contact
 
